@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rofixwork" alt="rofixwork" /></a> </p>
 
+![undraw_Programming_re_kg9v](https://github.com/RofixWork/RofixWork/assets/58398636/5dce652f-f9dc-4e91-8e91-da65a61d05ed)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/abdessamad.rofix.545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdessamad.rofix.545" height="30" width="40" /></a>
