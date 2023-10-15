@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rofixwork" alt="rofixwork" /></a> </p>
 
-<img src="https://github.com/RofixWork/RofixWork/assets/58398636/5dce652f-f9dc-4e91-8e91-da65a61d05ed" width="600" height="350" />
+<img align='right' src="https://github.com/RofixWork/RofixWork/assets/58398636/5dce652f-f9dc-4e91-8e91-da65a61d05ed" width="300" height="200" />
 
 
 <h3 align="left">Connect with me:</h3>
