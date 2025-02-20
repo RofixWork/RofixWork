@@ -1,7 +1,3 @@
-Certainly! Here's a simplified and more concise version of your GitHub README:
-
----
-
 # Abdessamad Ait Oughenja
 
 **Full Stack Developer specializing in intuitive interfaces and resilient backend infrastructures.**
@@ -27,7 +23,3 @@ Certainly! Here's a simplified and more concise version of your GitHub README:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rofixwork)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rofixwork&show_icons=true&locale=en&layout=compact)
-
----
-
-This version maintains the essential information while being more concise and visually appealing. 
