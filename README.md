@@ -11,7 +11,7 @@ Certainly! Here's a simplified and more concise version of your GitHub README:
 ## Connect with Me
 
 - **Facebook:** [Abdessamad Ait Oughenja](https://fb.com/abdessamad.rofix.545)
-- **YouTube:** [My Channel](https://www.youtube.com/c/https://www.youtube.com/channel/uckrlhkyma-vmd-gaksd8s4a)
+- **YouTube:** [My Channel](https://www.youtube.com/@easytutorialdarija)
 
 ## Technologies & Tools
 
