@@ -31,7 +31,6 @@ I’m a passionate software developer who specializes in building scalable backe
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rofixwork&show_icons=true&theme=default" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rofixwork&theme=default" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rofixwork&layout=compact&langs_count=6&hide=html" height="150" />
 </p>
 
