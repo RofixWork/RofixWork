@@ -1,25 +1,59 @@
-# Abdessamad Ait Oughenja
+# 👋 Hi, I'm Abdessamad Ait Oughenja
 
-**Full Stack Developer specializing in intuitive interfaces and resilient backend infrastructures.**
+**💻 Full Stack Developer | ☕ Spring Boot Backend Enthusiast | ⚛️ ReactJS Frontend Developer**
 
-![Profile Image](https://github.com/RofixWork/RofixWork/assets/58398636/5dce652f-f9dc-4e91-8e91-da65a61d05ed)
+I’m a passionate software developer who specializes in building scalable backend systems with **Spring Boot**, secure APIs using **JWT**, and modern UIs with **ReactJS**. I love clean code, software architecture, and solving real-world problems through technology.
 
-## Connect with Me
+![Profile Banner](https://github.com/RofixWork/RofixWork/assets/58398636/5dce652f-f9dc-4e91-8e91-da65a61d05ed)
 
-- **Facebook:** [Abdessamad Ait Oughenja](https://fb.com/abdessamad.rofix.545)
-- **YouTube:** [My Channel](https://www.youtube.com/@easytutorialdarija)
+---
 
-## Technologies & Tools
+## 🚀 Tech Stack
 
-- **Frontend:** React.js, HTML5, CSS3, Tailwind CSS, Bootstrap
-- **Backend:** Node.js, Express.js, MongoDB, SQL (MySQL, PostgreSQL)
-- **Version Control:** Git, GitHub
-- **Others:** JWT, RESTful APIs, Agile Development
+### 🔧 Backend
+- 💡 **Java 17**, **Spring Boot 3**
+- 🔐 Spring Security, JWT Authentication
+- 🛢️ Hibernate, JPA, PostgreSQL, MySQL
+- 🐳 Docker, RESTful APIs, Maven
 
-## GitHub Stats
+### 🎨 Frontend
+- ⚛️ React.js
+- 💅 Tailwind CSS, Bootstrap, HTML5, CSS3
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rofixwork&show_icons=true&locale=en)
+### 🌐 Others
+- 🌱 Node.js, Express.js, MongoDB
+- ✅ Git, GitHub
+- 🛠️ Agile Development, Clean Architecture, CI/CD basics
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rofixwork)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rofixwork&show_icons=true&locale=en&layout=compact)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rofixwork&show_icons=true&theme=default" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rofixwork&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rofixwork&layout=compact&langs_count=6&hide=html" height="150" />
+</p>
+
+---
+
+## 📚 Featured Project
+
+### 🏥 [Hospital Management System](https://github.com/rofixwork/hospital-management-system)
+
+A powerful RESTful backend system for hospital operations like doctors, patients, appointments, and prescriptions. Built with **Spring Boot**, **JWT Authentication**, **Role-based Access Control**, **Docker**, and **PostgreSQL**.  
+
+🔗 [Live API Demo (Swagger)](https://hospital-system-1-0.onrender.com/swagger-ui/index.html)
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abdessamad-ait-oughenja-a15855246/)
+- 📘 [Facebook](https://fb.com/abdessamad.rofix.545)
+- 📺 [YouTube Channel](https://www.youtube.com/@easytutorialdarija)
+
+---
+
+> _"Keep learning, keep building, and never stop growing."_ 🚀  
+_— Abdessamad_
